@@ -6,7 +6,7 @@ CVE search es un script desarrollado con chatGPT que nos ayudara a la hora de qu
 
 ![image](https://user-images.githubusercontent.com/67207446/217365351-2796c8fe-3c7c-497e-be37-83533843b0e9.png)
 
-## Instalacion
+## Instalacion y uso
 
 git clone https://github.com/Anonimo501/cve_search.git
 
